@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1085770219243",
+    "project_id": "act7-android-71f8f",
+    "storage_bucket": "act7-android-71f8f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085770219243:android:a81724f35a77b590bcc8ae",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS4nOt3mvlcGZAG7FxFncbrgqIUhwVDbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
