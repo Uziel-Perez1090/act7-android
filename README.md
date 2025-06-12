@@ -1,7 +1,6 @@
 # myapp
 - ![image](https://github.com/user-attachments/assets/e499259a-80dd-428d-85f0-7f6d43a081e6)
 - ![image](https://github.com/user-attachments/assets/4f2c7a9d-7de8-42fe-8429-dcef2385f045)
-- ![image](https://github.com/user-attachments/assets/33d6d5e7-a7f1-4ccb-9836-f81183fcec3c)
 
 A new Flutter project.
 
